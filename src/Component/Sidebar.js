@@ -21,7 +21,7 @@ function Sidebar() {
             </div>
 
             <div className="sidebar_search">
-
+                <h1>Search this</h1>
 
             </div>
             <div className="sidebar_chats">
